@@ -58,3 +58,12 @@ p {
 .categoria h2 {
     color: rgb(42, 122, 228);
 }
+
+.categoria p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.categoria a{
+    text-decoration: none;
+}
